@@ -1,2 +1,3 @@
-.env
-**/images/  
+# # 공통
+# .env
+# **/images/  
